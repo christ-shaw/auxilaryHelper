@@ -1,0 +1,6 @@
+server:
+  port: 20490
+
+spring:
+  application:
+    name: wu-dispatcher
